@@ -1,7 +1,7 @@
 ## Start Project
-npm init -y
-npm i
-npm install --save-dev typescript ts-node jest @types/jest
+1) npm init -y
+2) npm i
+
 
 ## TEST
 npm run test 
